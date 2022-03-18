@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 20.1.5</title>
-            <description>desc</description>
-            <pubDate>Fri, 18 Mar 2022 17:34:14 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.attrayant.user.ipro" sparkle:version="20.1.5" sparkle:os="android" />
+            <title>Version 1.15.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
