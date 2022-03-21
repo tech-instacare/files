@@ -3,9 +3,8 @@
     <channel>
         <title>Smart Clinic by Instacare</title>
         <item>
-            <title>Version 20.1.4</title>
+            <title>Version 20.1.5</title>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="20.1.4" sparkle:os="android" />
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
         </item>
     </channel>
