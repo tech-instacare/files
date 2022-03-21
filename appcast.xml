@@ -4,8 +4,10 @@
         <title>Smart Clinic by Instacare</title>
         <item>
             <title>Version 20.1.5</title>
-            <description>Minor updates and improvements.test123</description>
-             
+            <description>Minor updates and improvements. with out android</description>
+            <pubDate>Mon, 21 Mar 2022 15:17:48 +0000</pubDate>
+            <sparkle:minimumSystemVersion>20.1.5</sparkle:minimumSystemVersion>
+            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>
         </item>
     </channel>
 </rss>
