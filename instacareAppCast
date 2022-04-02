@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Instacare</title>
+        <item>
+            <title>Version 3.2.5</title>
+            <description>Minor updates and improvements. with out min</description>
+            <pubDate>Mon, 21 Mar 2022 15:17:48 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="3.2.5" sparkle:os="android" />
+            
+            <!-- enable this code if you want to for user to update.
+            <sparkle:minimumSystemVersion>20.1.4</sparkle:minimumSystemVersion>
+            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
+        </item>
+    </channel>
+</rss>
