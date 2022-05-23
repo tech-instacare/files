@@ -3,14 +3,14 @@
     <channel>
         <title>Instacare</title>
         <item>
-            <title>Version 3.4.0</title>
+            <title>Version 3.4.1</title>
             <description>Vital Charts integrations.</description>
             <pubDate>Sat, 21 May 2022 15:17:48 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="3.4.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="3.4.1" sparkle:os="android" />
             
-            <!-- enable this code if you want to force user to update. 
-            <sparkle:minimumSystemVersion>3.4.0</sparkle:minimumSystemVersion>
-            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>-->
+            <!-- enable this code if you want to force user to update.--> 
+            <sparkle:minimumSystemVersion>3.4.1</sparkle:minimumSystemVersion>
+            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>
         </item>
     </channel>
 </rss>
