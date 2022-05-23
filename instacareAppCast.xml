@@ -3,14 +3,14 @@
     <channel>
         <title>Instacare</title>
         <item>
-            <title>Version 3.2.5</title>
+            <title>Version 3.4.0</title>
             <description>Minor updates and improvements. with out min</description>
-            <pubDate>Mon, 21 Mar 2022 15:17:48 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="3.2.5" sparkle:os="android" />
+            <pubDate>Sat, 21 May 2022 15:17:48 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="3.4.0" sparkle:os="android" />
             
-            <!-- enable this code if you want to force user to update.
+            <!-- enable this code if you want to force user to update. -->
             <sparkle:minimumSystemVersion>3.2.5</sparkle:minimumSystemVersion>
-            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>-->
+            <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>
         </item>
     </channel>
 </rss>
