@@ -4,12 +4,12 @@
         <title>Smart Clinic by Instacare</title>
         <item>
             <title>Version 20.1.4</title>
-            <description>Minor updates and improvements. with out min</description>
-            <pubDate>Mon, 21 Mar 2022 15:17:48 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="20.1.4" sparkle:os="android" />
+            <description>Appointment listing issue has been resolved.</description>
+            <pubDate>Mon, 9 May 2023 15:17:48 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.attrayant.user.ipro" sparkle:version="22.1.1" sparkle:os="android" />
             
-            <!-- enable this code if you want to for user to update.
-            <sparkle:minimumSystemVersion>20.1.4</sparkle:minimumSystemVersion>
+            <!-- enable this code if you want to force user to update.
+            <sparkle:minimumSystemVersion>22.1.1</sparkle:minimumSystemVersion>
             <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags> -->
         </item>
     </channel>
