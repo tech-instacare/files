@@ -9,7 +9,7 @@
             <enclosure url="https://play.google.com/store/apps/details?id=attrayant.design.pat.instacare" sparkle:version="5.6.0" sparkle:os="android" />
             
             <!-- enable this code if you want to force user to update.--> 
-            <sparkle:minimumSystemVersion>3.4.1</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>5.6.0</sparkle:minimumSystemVersion>
             <sparkle:tags> <sparkle:criticalUpdate/> </sparkle:tags>
         </item>
     </channel>
